@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vabli7gcjs81nlbb?svg=true)](https://ci.appveyor.com/project/Isbocha/postman-echo)
